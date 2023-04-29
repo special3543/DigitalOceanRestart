@@ -24,7 +24,7 @@ Python 3
 Requests library (can be installed with pip install requests)
 Example
 
-'''$ python restart_droplet.py
+'$ python restart_droplet.py'
 The following droplets were found:
 1. droplet-1
 2. droplet-2
