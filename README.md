@@ -23,13 +23,12 @@ Requirements
 Python 3
 Requests library (can be installed with pip install requests)
 Example
-'''
-$ python restart_droplet.py
+
+'''$ python restart_droplet.py
 The following droplets were found:
 1. droplet-1
 2. droplet-2
 Enter the number of the droplet you want to restart: 2
-Rebooting the "droplet-2" droplet...
-'''
+Rebooting the "droplet-2" droplet...'''
 
 Note: This script only works for DigitalOcean droplets associated with your account.
