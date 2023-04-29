@@ -1,6 +1,3 @@
-# DigitalOceanRestart
-
-
 # DigitalOcean Droplet Restart Script
 This Python script uses the DigitalOcean API to restart a droplet on your account.
 
